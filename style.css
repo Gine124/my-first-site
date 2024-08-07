@@ -1,0 +1,17 @@
+body{
+   background-color: rgb(9, 91, 64); 
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+p{
+    color: antiquewhite;
+    font-size: 50px;
+}
+a{
+   color: bisque; 
+   font-size: 25px;
+   text-decoration: none;
+   text-transform: uppercase;
+}
